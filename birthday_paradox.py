@@ -1,11 +1,11 @@
 from random import *
 from math import *
 
-    """
-    purpose is to simulate the birthday paradox probabilities, highlighting how
-    the probability of a duplicate birthday in a group of people (in this case, a class of 38 students) is
-    higher than what your intuition may think
-    """
+"""
+purpose is to simulate the birthday paradox probabilities, highlighting how
+the probability of a duplicate birthday in a group of people (in this case, a class of 38 students) is
+higher than what your intuition may think
+"""
 
 __author__ = "seasaltWagyu"
 
